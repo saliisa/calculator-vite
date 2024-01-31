@@ -1,6 +1,5 @@
 # [Calculator](https://saliisa.github.io/calculator-vite/)
-
-
+<p>Calculator tutorial by https://www.sitepoint.com/react-tutorial-build-calculator-app/</p>
 
 
 # React + Vite
